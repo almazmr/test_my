@@ -1,0 +1,15 @@
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.csprojAssemblyReference.cache
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.Form1.resources
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.Properties.Resources.resources
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.csproj.GenerateResource.cache
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.csproj.CoreCompileInputs.cache
+C:\Users\almaz\Desktop\С#\тест1\тест1\bin\Debug\тест1.exe.config
+C:\Users\almaz\Desktop\С#\тест1\тест1\bin\Debug\тест1.exe
+C:\Users\almaz\Desktop\С#\тест1\тест1\bin\Debug\тест1.pdb
+C:\Users\almaz\Desktop\С#\тест1\тест1\bin\Debug\WebDriver.dll
+C:\Users\almaz\Desktop\С#\тест1\тест1\bin\Debug\WebDriver.xml
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.csproj.CopyComplete
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.exe
+C:\Users\almaz\Desktop\С#\тест1\тест1\obj\Debug\тест1.pdb
+C:\Users\almaz\Desktop\С#\тест1\тест1\bin\Debug\WebDriver.Support.dll
+C:\Users\almaz\Desktop\С#\тест1\тест1\bin\Debug\WebDriver.Support.xml
